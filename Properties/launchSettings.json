@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ai_finder_be_schedulers_donetcore": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7095",
+      "launchBrowser": false
+    }
+  }
+}

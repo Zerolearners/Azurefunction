@@ -1,0 +1,5 @@
+{
+    "Message": "Dear 123 Your free membership with Chavaramatrimony.com userid: 123 still pending verification. You can activate it by clicking the following link 123 or contact 0484-4080333. If not, your profile will move to deactivate status soon. ChavaraMatrimony.com",
+    "TemplateId": "1407169701964868218",
+    "Entity":"1401571560000015141"
+}

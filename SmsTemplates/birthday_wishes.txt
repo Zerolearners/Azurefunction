@@ -1,0 +1,5 @@
+{
+    "Message": "Dear #username, ChavaraMatrimony.com wishing you a Happy Birthday! May God shower his choicest blessing on you. Wishing you happiness & a great year ahead. ChavaraMatrimony.com",
+    "TemplateId": "1407169717348831267",
+    "Entity":"1401571560000015141"
+}

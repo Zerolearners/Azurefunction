@@ -1,0 +1,5 @@
+{
+    "Message": "Dear #username, Your Paid Membership with chavaramatrimony.com will expire within #expiryInDays. Kindly re-register and continue access to your profile. ChavaraMatrimony.com",
+    "TemplateId": "1407169717493157463",
+    "Entity":"1401571560000015141"
+}

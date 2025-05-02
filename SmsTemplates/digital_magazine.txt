@@ -1,0 +1,5 @@
+{
+    "Message": "Dear 123 Chavara Family News 123 Digital Magazine published, please check 123. More Details contact +914844080333. ChavaraMatrimony.com",
+    "TemplateId": "1407164724181736915",
+    "Entity":"1401571560000015141"
+}
