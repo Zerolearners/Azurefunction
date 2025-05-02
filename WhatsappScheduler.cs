@@ -20,7 +20,7 @@ namespace Company.Function
             _setting = setting;
         }
 
-        // [Function("WhatsappScheduler")]  test
+        // [Function("WhatsappScheduler")]  test1
         public async Task Run([TimerTrigger("0 */2 * * * *")] TimerInfo myTimer)
         {
             _logger.LogInformation($"WhatsappScheduler function executed at: {DateTime.Now}");
